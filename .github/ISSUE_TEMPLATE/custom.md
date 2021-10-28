@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Agenda template
 about: Agenda template
 title: Agenda <DATE>, 15:30 UTC
 labels: ''
